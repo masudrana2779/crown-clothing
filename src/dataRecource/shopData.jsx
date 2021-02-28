@@ -243,6 +243,6 @@ const SHOP_DATA = [
         price: 25,
       },
     ],
-  },
+  }, 
 ];
 
