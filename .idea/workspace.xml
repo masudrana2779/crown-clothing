@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fb2c06-267c-4070-b367-f22cd0344502" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/signIn/signIn.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/signIn/signIn.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/signIn/signIn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/signIn/signIn.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -67,7 +68,7 @@
       <workItem from="1614318075950" duration="39000" />
       <workItem from="1614405341738" duration="10113000" />
       <workItem from="1614443137862" duration="499000" />
-      <workItem from="1614490192933" duration="1389000" />
+      <workItem from="1614490192933" duration="9347000" />
     </task>
     <servers />
   </component>
